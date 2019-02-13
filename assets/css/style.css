@@ -1,3 +1,11 @@
-.price{
+.price {
   font-weight: bold;
+}
+
+.aTitle {
+  text-align: center;
+  
+  background-color: #EDEDED;
+  border-radius: 50px;
+
 }
