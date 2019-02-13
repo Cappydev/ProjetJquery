@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .price {
   font-weight: bold;
 }
@@ -8,4 +9,19 @@
   background-color: #EDEDED;
   border-radius: 50px;
 
+=======
+.bwallpaper{
+  width : 100%;
+  z-index: -1;
+  position: fixed;
+}
+.blogo{
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+}
+.bProduct{
+background-color: white;
+margin-top: 75px;
+>>>>>>> 3300e0fc15d82bdd48520c7753b155fcb21a0688
 }
